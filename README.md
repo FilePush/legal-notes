@@ -81,3 +81,31 @@ Sources: https://github.com/FilePush/legal-notes/blob/main/2020/05/22-email.txt
 ## 2019
 ### None
 Cry babies did not exist at this point in time, but neither did.
+
+## Signature of authorization
+
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Last updated: 5th November 2021
+
+Presented information (https://github.com/FilePush/legal-notes/blob/main/README.md) is accurate and up to date, and should be regarded as accurate.
+
+~JS, 3045x.com
+
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEEe4wyeMQzM/6IpJdvRH4mSFMK5FAFAmGEtqIACgkQRH4mSFMK
+5FBc6Qv/TlqeCPbNsjKw8oF24LkhA63J7OEU3L2USv/2FcTr8EBykBJUCjLjpOsK
+CcDGgxQgPa3y5nBVoT/GyPfc+ZQ9UJkZzkghH1foFJ1mcrCUGUAuaYgJqy0X+Nf2
+kujyRGzYUwZVg+5sq7DCO7N6vP2MB+9hfa8yxuQ3VZAko9bmZfTjERduhTe7ft87
+qYIxfY8Fq79FHLrNLH88X+LoQwQUJkg7uzDABHJkYw33730bA9eP2fHjaEUJpePn
+fkoMDw0uSFyo9Kr4mZWKPCbdPNQZlDzGEhGLI8hdxrrpGQJ8NZPBIUp/+pycQrBb
+NVzrwADp2oZK1+jtjaRr7rd4BiWa32GQ5Y0s26MhfggiFQokmqsEwmmzH5wq5jt9
+TITI3aXXa9EzQ/+G0mxthoszJYwZRbTEmibBHSqte3a6JVst1m9rtA9N64SKWd4U
+uIkbezqu87ZfcEimpm9SU+jAr9gu+WPON0rx9nQy6rBhq1onG6B5TOyp67HXOqXN
+HBVYq6Aj
+=tP8r
+-----END PGP SIGNATURE-----
+```
