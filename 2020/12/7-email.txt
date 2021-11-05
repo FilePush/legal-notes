@@ -1,0 +1,37 @@
+On 07 Dec 23:29, abuse@notify.cloudflare.com wrote:
+> Cloudflare received an abuse report regarding:
+> filepu.sh
+>
+> Please be aware Cloudflare is a network provider offering a reverse proxy, pass-through security service. We are not a hosting provider. Cloudflare does not control the content of our customers.
+>
+> The actual host for filepu.sh  are the following IP addresses. 2a01:4f9:4a:2a18::2. Using the following command, you can confirm the site in question is hosted at that IP address: curl -v -H "Host: filepu.sh" 2a01:4f9:4a:2a18::2/
+>
+> Below is the report we received:
+>
+> Reporter's Name: Benjamin Avice Du Buisson
+> Reporter's Email Address: yaekith@gmail.com
+> Reporter's Title: Domains hosting in real life pictures of me
+>
+> Reported URLs:
+>
+>       https://filepu.sh/FT9dov7WIBC.jpg
+>       https://filepu.sh/9gPwOWFRAbG.png
+>       https://filepu.sh/GwBMxsOys36.png
+>       https://filepu.sh/0tAqwLUFOAX.png
+>       https://filepu.sh/06FkM21oXXF.png
+>
+> Logs or Evidence of Abuse: https://filepu.sh
+> https://foundyour.info
+> https://pxl.blue (parent domain of the two)
+> These domains are owned by a teenager by the name of Seth Stephens (relative) and his friends. They&#039;ve been harassing me with my personal information for the past week, even sending police to my house saying I&#039;m held hostage. He&#039;s also threatened my parents by getting their phone number and calling in a threatening matter as if I didn&#039;t come to the phone I&#039;d be murdered. He&#039;s also managed to find a sexually explicit image of mine I posted when I was 15, not knowing any better. So basically he has illegal material hosted on his domains aswell :)
+> (https://filepu.sh/GwBMxsOys36.png)
+>
+> Thank you, Benjamin.
+>
+>
+> Please address this issue with your customer.
+>
+> Regards,
+>
+> Cloudflare Abuse
+>
