@@ -18,7 +18,7 @@ Verdict: Removed (verified)
 
 Comment: In regards to the leaks of Twitch data which we hosted, Twitch sent a threatening letter demanding to our hosting provider removal of the content.
 
-Sources: https://raw.githubusercontent.com/FilePush/legal-notes/main/2021/10/12-notice.pdf
+Sources: https://github.com/FilePush/legal-notes/blob/main/2021/10/12-notice.pdf
 ```
 
 ### 13th June 2021 | Detection
@@ -50,7 +50,7 @@ Verdict: Ignored (did not break law or tos)
 
 Comment: The lacking security of an individual led to several extremely embarassing pictures being leaked including the result of the reporters cock launching semen in every possible direction like a loose cannon. Despite the situation, nothing illegal took place and the files remained online, also the emailed source is fucking hilarious considering all of the blatantly wrong information given (give it a read)
 
-Sources: https://raw.githubusercontent.com/FilePush/legal-notes/main/2020/12/7-email.txt
+Sources: https://github.com/FilePush/legal-notes/blob/main/2020/12/7-email.txt
 ```
 
 ### 22nd May 2020 | Request
@@ -73,7 +73,7 @@ Verdict: Ignored (did not break law or tos)
 
 Comment: Ewan Haynes, AKA "ItsDevvy" and "Da532" (resident woman beater) discovered through his testosterone-absent chain of friends our domains, and whilst being such a warrior for an anarchy-laden world (I'm not sure if assault and battery would be legal) he bravely decided that he was going to report the domains, TO OUR HOST? Peak IQ. Anyway his lying skills are just as good as he can resist throwing a punch at his mother and thus the accusations within the email were quickly dismissed and we never heard anything again.
 
-Sources: https://raw.githubusercontent.com/FilePush/legal-notes/main/2020/05/22-email.txt
+Sources: https://github.com/FilePush/legal-notes/blob/main/2020/05/22-email.txt
 > We also request that you send us a short response within 24 hours. This response should contain information about how this could have happened and what you intend to do about it.
 
 HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA get fucked.
