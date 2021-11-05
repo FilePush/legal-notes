@@ -78,4 +78,4 @@ Sources: https://github.com/FilePush/legal-notes/blob/main/2020/05/22-email.txt
 
 ## 2019
 ### None
-Cry babies did not exist at this point in time, but neither did we until much later.
+Cry babies did not exist at this point in time, but neither did.
