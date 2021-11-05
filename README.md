@@ -3,8 +3,8 @@ A log of removals mandated by the law (illegal) or legal requests. Whatever thos
 
 Some content URLs may be redacted. If any sources are missing or offline, please let us know.
 
-### 2021
-#### 12th October 2021 | Request
+## 2021
+### 12th October 2021 | Request
 <details>
 <summary>URL(s)</summary>
 
@@ -21,7 +21,7 @@ Comment: In regards to the leaks of Twitch data which we hosted, Twitch sent a t
 Sources: https://github.com/FilePush/legal-notes/2021/10/12-notice.pdf
 ```
 
-#### 13th June 2021 | Detection
+### 13th June 2021 | Detection
 ```
 Verdict: Removed (verified)
 
@@ -30,9 +30,9 @@ Comment: An automated detection system discovered explicit imagery depicting min
 Sources: n/a
 ```
 
-### 2020
+## 2020
 
-#### 7th December 2020 | Request
+### 7th December 2020 | Request
 <details>
   <summary>URL(s)</summary>
   
@@ -53,7 +53,7 @@ Comment: The lacking security of an individual led to several extremely embarass
 Sources: https://github.com/FilePush/legal-notes/2020/12/7-email.txt
 ```
 
-#### 22nd May 2020 | Request
+### 22nd May 2020 | Request
 <details>
   <summary>URL(s)</summary>
   Yes, they're all domains.
@@ -79,6 +79,6 @@ Sources: https://github.com/FilePush/legal-notes/2020/05/22-email.txt
 HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA get fucked.
 ```
 
-### 2019
-#### None
+## 2019
+### None
 Cry babies did not exist at this point in time, but neither did we until much later.
