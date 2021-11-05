@@ -1,5 +1,5 @@
 # Legal notes
-A log of removals mandated by the law (illegal) or legal requests. Whatever those are.
+A log of requests and removals mandated by the law (illegal) or legal requests. Whatever those are.
 
 Some content URLs may be redacted. If any sources are missing or offline, please let us know.
 
