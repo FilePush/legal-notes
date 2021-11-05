@@ -3,6 +3,8 @@ A log of removals mandated by the law (illegal) or legal requests. Whatever thos
 
 Some content URLs may be redacted. If any sources are missing or offline, please let us know.
 
+They're all clowns too, feel free to laugh. At them.
+
 ## 2021
 ### 12th October 2021 | Request
 <details>
