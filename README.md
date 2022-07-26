@@ -111,18 +111,29 @@ Presented information (https://github.com/FilePush/legal-notes/blob/main/README.
 
 ~JS, 3045x.com
 
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Last updated: 26th July 2022
+
+Presented information (https://github.com/FilePush/legal-notes/blob/main/README.md) is accurate and up to date, and should be regarded as accurate. Latest headlines displayed below for time accuracy.
+
+BBC.COM: Tory debate crashes off air after presenter McCann faints
+BBC.COM: Briton killed in Greek helicopter accident
+
+~JS, 3045x.com
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEEe4wyeMQzM/6IpJdvRH4mSFMK5FAFAmGEtqIACgkQRH4mSFMK
-5FBc6Qv/TlqeCPbNsjKw8oF24LkhA63J7OEU3L2USv/2FcTr8EBykBJUCjLjpOsK
-CcDGgxQgPa3y5nBVoT/GyPfc+ZQ9UJkZzkghH1foFJ1mcrCUGUAuaYgJqy0X+Nf2
-kujyRGzYUwZVg+5sq7DCO7N6vP2MB+9hfa8yxuQ3VZAko9bmZfTjERduhTe7ft87
-qYIxfY8Fq79FHLrNLH88X+LoQwQUJkg7uzDABHJkYw33730bA9eP2fHjaEUJpePn
-fkoMDw0uSFyo9Kr4mZWKPCbdPNQZlDzGEhGLI8hdxrrpGQJ8NZPBIUp/+pycQrBb
-NVzrwADp2oZK1+jtjaRr7rd4BiWa32GQ5Y0s26MhfggiFQokmqsEwmmzH5wq5jt9
-TITI3aXXa9EzQ/+G0mxthoszJYwZRbTEmibBHSqte3a6JVst1m9rtA9N64SKWd4U
-uIkbezqu87ZfcEimpm9SU+jAr9gu+WPON0rx9nQy6rBhq1onG6B5TOyp67HXOqXN
-HBVYq6Aj
-=tP8r
+iQGzBAEBCAAdFiEEe4wyeMQzM/6IpJdvRH4mSFMK5FAFAmLgQscACgkQRH4mSFMK
+5FARZwv9FAGUa2e8QaU3w83AVb6kG/xIEkGaBV84m0t5WTjvx1JKIW0qZdgeurtZ
+JLguCk0HhGNWrGUCSr3Ytw5E+i5ImfG0xcDub430fAAq0J74WH2O6ca/Malolfvf
+9VG7kJIk2yeoIQii3+KuoepI8QRNceA1qzYXhLq89pjgx5jzxSbmlpAI8vOCKkWp
+4Pa/P2OgiwhyaNkb3pHzcUbpZBmXO9SW2RM/yl+pPPu2ZT8+9h8tfMGvQYrRQADj
+Auy16N60N2eGX0xO0W/tD7aI3lMfEfoPh+DqFE+m4K6zrxo2EKAho+okpFQWMBR/
+N4QyYrQx2j2eJFuYV6m7ayj04L8aeiYL51sD6IbBH1ekkFHNaaEcD6K5l/hQ2l5f
+TvHXmOyJiDbHDOqmJ4PEqgp5VXjpMQSzsGa54Ob785bwdK8e2j/ahpcKqpRvBMxS
+uJKALcbCPMRbj/1wPBv1VBv9Ngifm9xYN31Ifyo7An+3eNKT+tD1uuAkGV3H7lLD
+vvBmSJd0
+=7z/i
 -----END PGP SIGNATURE-----
 ```
