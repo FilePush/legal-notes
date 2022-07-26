@@ -97,20 +97,11 @@ Sources: https://github.com/FilePush/legal-notes/blob/main/2020/05/22-email.txt
 
 ## 2019
 ### None
-Cry babies did not exist at this point in time, but neither did.
+Cry babies did not exist at this point in time, but neither did we.
 
 ## Signature of authorization
 
 ```
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
-
-Last updated: 5th November 2021
-
-Presented information (https://github.com/FilePush/legal-notes/blob/main/README.md) is accurate and up to date, and should be regarded as accurate.
-
-~JS, 3045x.com
-
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
