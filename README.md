@@ -5,6 +5,23 @@ Some content URLs may be redacted. If any sources are missing or offline, please
 
 They're all clowns too, feel free to laugh. At them.
 
+## 2022
+### 26th July 2022 | Request
+<details>
+<summary>URL(s)</summary>
+
+  ```
+  https://filepu.sh/modefx
+  ```
+</details>
+
+```
+Verdict: Ignored (did not break law or tos)
+
+Comment: My psychic told me to put this here.
+```
+Sources: https://twitter/.com/realseb1g/status/1551878921259556864
+
 ## 2021
 ### 12th October 2021 | Request
 <details>
