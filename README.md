@@ -105,26 +105,31 @@ Cry babies did not exist at this point in time, but neither did we.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-Last updated: 26th July 2022
+Last updated: 24th August 2022
 
 Presented information (https://github.com/FilePush/legal-notes/blob/main/README.md) is accurate and up to date, and should be regarded as accurate. Latest headlines displayed below for time accuracy.
 
-BBC.COM: Tory debate crashes off air after presenter McCann faints
-BBC.COM: Briton killed in Greek helicopter accident
+- - we are not under any lawful restrictions which may hinder the reporting process.
+
+BBC.COM: Target of Liverpool shooting that killed Olivia Pratt-Korbel, 9, arrested
+BBC.COM: Biden cancels $10,000 in student loan debts
+NYTIMES.COM: ‘Crimen de Estado’: México hace un anuncio en el caso de los 43 estudiantes
+
+See you next month.
 
 ~JS, 3045x.com
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEEe4wyeMQzM/6IpJdvRH4mSFMK5FAFAmLgQscACgkQRH4mSFMK
-5FARZwv9FAGUa2e8QaU3w83AVb6kG/xIEkGaBV84m0t5WTjvx1JKIW0qZdgeurtZ
-JLguCk0HhGNWrGUCSr3Ytw5E+i5ImfG0xcDub430fAAq0J74WH2O6ca/Malolfvf
-9VG7kJIk2yeoIQii3+KuoepI8QRNceA1qzYXhLq89pjgx5jzxSbmlpAI8vOCKkWp
-4Pa/P2OgiwhyaNkb3pHzcUbpZBmXO9SW2RM/yl+pPPu2ZT8+9h8tfMGvQYrRQADj
-Auy16N60N2eGX0xO0W/tD7aI3lMfEfoPh+DqFE+m4K6zrxo2EKAho+okpFQWMBR/
-N4QyYrQx2j2eJFuYV6m7ayj04L8aeiYL51sD6IbBH1ekkFHNaaEcD6K5l/hQ2l5f
-TvHXmOyJiDbHDOqmJ4PEqgp5VXjpMQSzsGa54Ob785bwdK8e2j/ahpcKqpRvBMxS
-uJKALcbCPMRbj/1wPBv1VBv9Ngifm9xYN31Ifyo7An+3eNKT+tD1uuAkGV3H7lLD
-vvBmSJd0
-=7z/i
+iQGzBAEBCAAdFiEEe4wyeMQzM/6IpJdvRH4mSFMK5FAFAmMGUmAACgkQRH4mSFMK
+5FA80Av+MN+x7HTlnmTCPJDXc1QCOuRLaDDJdDhco9mfBw1v3z4YtTvTGxXBhv+7
+v6jM+f+nBvKpDBCEqhl7E/j4Rgf+rU4n1HZBWcbC3OiHTPFel/kr9CFSy3uxmg4b
+0/ojD7ZLKJN2PSMMuNcxmgKlhfdjMvuttVqOT6ayuW+dcnu0pMjgaY9MXJZa2OTA
+/dKCcOnVLUCvg3X7n1kqUaxhmXpyDXES9kReTa03yaOWPyriNlPMd52U9FlUjMdb
+0/ym9588V+tji73Ms2g/zJ+VVvl7YvElaZUIgLIqrHct3b1cxGf3O/cGj8DU1PFA
+5BEOa2H8IVbxMvQZCOTQPFx3P83nqdak7QXWiQmY22G7Rfetu7qyPjmLRN2GrTbq
+y0E0sjRdBlZN1i9GB0GtyqNScHnbfdbKvBs74aaoY3IrEXDiNKbkCr95YXUQdhuO
+Iwqw40FyBxNqKUJyDbXGhrZDHNEHiHY6sXb2OeLwrrbngD0u46R/WaJqsJWoKt8J
+MDO2cPWl
+=3oWC
 -----END PGP SIGNATURE-----
 ```
