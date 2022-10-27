@@ -105,31 +105,35 @@ Cry babies did not exist at this point in time, but neither did we.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-Last updated: 24th August 2022
+Last updated: 27th October 2022 (after: 0e31d7be05ad2decf51c68a2af343ffef41d58ab)
 
 Presented information (https://github.com/FilePush/legal-notes/blob/main/README.md) is accurate and up to date, and should be regarded as accurate. Latest headlines displayed below for time accuracy.
 
-- - we are not under any lawful restrictions which may hinder the reporting process.
+The FilePush infrastructure has been moved to its own hardware in a bid to decrease reliability on unreliable third-parties.
 
-BBC.COM: Target of Liverpool shooting that killed Olivia Pratt-Korbel, 9, arrested
-BBC.COM: Biden cancels $10,000 in student loan debts
-NYTIMES.COM: ‘Crimen de Estado’: México hace un anuncio en el caso de los 43 estudiantes
+- - - we are not under any lawful restrictions which may hinder the reporting process.
+
+BBC.COM: Iran protests rage as thousands defy security forces
+BBC.COM: Young children exploited on OnlyFans, says US agent
+NYTIMES.COM: War in Ukraine Likely to Speed, Not Slow, Shift to Clean Energy, I.E.A. Says
+
+Delay in reporting was due to being busy and general laziness.
 
 See you next month.
 
 ~JS, 3045x.com
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEEe4wyeMQzM/6IpJdvRH4mSFMK5FAFAmMGUmAACgkQRH4mSFMK
-5FA80Av+MN+x7HTlnmTCPJDXc1QCOuRLaDDJdDhco9mfBw1v3z4YtTvTGxXBhv+7
-v6jM+f+nBvKpDBCEqhl7E/j4Rgf+rU4n1HZBWcbC3OiHTPFel/kr9CFSy3uxmg4b
-0/ojD7ZLKJN2PSMMuNcxmgKlhfdjMvuttVqOT6ayuW+dcnu0pMjgaY9MXJZa2OTA
-/dKCcOnVLUCvg3X7n1kqUaxhmXpyDXES9kReTa03yaOWPyriNlPMd52U9FlUjMdb
-0/ym9588V+tji73Ms2g/zJ+VVvl7YvElaZUIgLIqrHct3b1cxGf3O/cGj8DU1PFA
-5BEOa2H8IVbxMvQZCOTQPFx3P83nqdak7QXWiQmY22G7Rfetu7qyPjmLRN2GrTbq
-y0E0sjRdBlZN1i9GB0GtyqNScHnbfdbKvBs74aaoY3IrEXDiNKbkCr95YXUQdhuO
-Iwqw40FyBxNqKUJyDbXGhrZDHNEHiHY6sXb2OeLwrrbngD0u46R/WaJqsJWoKt8J
-MDO2cPWl
-=3oWC
+iQGzBAEBCAAdFiEEe4wyeMQzM/6IpJdvRH4mSFMK5FAFAmNabOwACgkQRH4mSFMK
+5FBjmQv8DYJ2AAjvxgUhwXXhqNliV9X7XBndZtf6T8IQwnNZkuMZ2FWIH7fV0IPC
+hJal2RMD9L9lOWOchSqOEGfnH1jWLzDbtw7ie31R7wHVMDhWFf9Xwu4i5LM9K9dy
+V4Xn66ncFUYFc5PMIII7oeOsU/pxGygzZYOenVN2zaj6noRQJUAF2ZiYITvw9UaE
+6sxa1K+dbHD5mH3ebHyW44ZgA1p1iULgWWJuAQtwHZpxZ37B/20JftZbxmQawQ5S
+St8Iy9wz1Iu0jmbD3UXGKc364p94ENDpjfzTVn4y49QqyVcc9uOtieq5vvELb0/V
+8kySZpphF/9zWPPtQ6l/uws7GbnBOM2cL+wX9OlafQcn42YaYQTPLC6GK2hl4pdX
+yHicgeKBSCZmPcURmcRQmRJFOWfHRAiJ7koSp0eRaxfTcp+g68sYjM1iFmqfPrha
+8DDh1PYI/9W0qPphw/7K2e/iOtrUVsEjqwTJ3OCmwyYV5wd94DDz8c9AFk0cTPVY
+Q4GF+9lh
+=yWp8
 -----END PGP SIGNATURE-----
 ```
