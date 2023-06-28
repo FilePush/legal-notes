@@ -5,6 +5,23 @@ Some content URLs may be redacted. If any sources are missing or offline, please
 
 They're all clowns too, feel free to laugh. At them.
 
+## 2023
+### 12th June 2023 | Request
+<details>
+<summary>URL(s)</summary>
+
+  ```
+  https://filepu.sh/9ww5m7RXEbBPt9.png
+  ```
+</details>
+
+```
+Verdict: Ignored (did not break law or tos)
+
+Comment: Thought we'd have a year without updating this, apparently not.
+```
+Sources: n/a
+
 ## 2022
 ### 26th July 2022 | Request
 <details>
@@ -18,7 +35,7 @@ They're all clowns too, feel free to laugh. At them.
 ```
 Verdict: Ignored (did not break law or tos)
 
-Comment: My psychic told me to put this here.
+Comment: cope and seethe
 ```
 Sources: https://twitter/.com/realseb1g/status/1551878921259556864
 
